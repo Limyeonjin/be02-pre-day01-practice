@@ -1,6 +1,6 @@
 package day01;
 
-public class ifPractice {
+public class IfPractice {
     public static void main(String[] args) {
         Integer num1;
         num1=10;
