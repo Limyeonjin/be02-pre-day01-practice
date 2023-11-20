@@ -39,7 +39,7 @@ public class Ex03 {
          */
 
 
-        for(Integer i=1; i<8; i = i + 2){
+        for(Integer i=1; i<10; i = i + 2){
             System.out.println(i);
         }
 

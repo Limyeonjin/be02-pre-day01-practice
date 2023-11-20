@@ -11,13 +11,9 @@ public class Ex01 {
         // 다음에 코드를 작성하여 num1과 num2에 저장된 숫자를 서로 바꾸시오
         // 단 num1 = 20;, num2=10; 사용금지
 
-        Integer result1;
-        result1 = num1 + 10;
-
-
-        Integer result2;
-        result2 = num2 - 10;
-
+        Integer A = num1;
+        num1 = num2;
+        num2 = A;
 
         System.out.println(num1);
         System.out.println(num2);
