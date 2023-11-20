@@ -13,7 +13,7 @@ public class Ex02 {
         //     0부터 9까지 숫자 중 랜덤한 숫자를 하나 생성해서 저장
         //     저장한 숫자를 출력
 
-        for(Integer num=0; num<10; num = num + 1){
+        for(Integer i=0; i<6; i=i+1){
         Integer num = (int)(Math.random()*9);
         System.out.println(num);
 
